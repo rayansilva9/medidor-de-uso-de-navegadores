@@ -10,7 +10,7 @@ App desktop para Windows que mede **CPU**, **GPU** e **RAM** apenas dos processo
 ## Instalação
 
 ```powershell
-cd "c:\Users\RAYAN\Documents\ultrium\medidor de cpu"
+cd (pasta do projeto)
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
